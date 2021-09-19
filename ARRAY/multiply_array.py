@@ -34,3 +34,6 @@ def better_solution(num1, num2):
 print(multiply([1, 2, 3], [9, 8, 7]))
 print(multiply([1, 0, 1, 2, 3, 4, 6, 5, 2, 3, 4, 8, 7, 8, 9, 9, 8], [6, 5, 7, 4, 6, 3, 1, 1, 5, 4, 5, 6, 4, 6, 4, 3, 1]))
 print(better_solution([1, 2, 3], [9, 8, 7]))
+
+print(multiply([1, 2], [7, 8]))
+print(multiply([1, 2], [7, 8]))
